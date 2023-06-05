@@ -1,1 +1,5 @@
-
+data:
+  env: dev
+  user:
+    userName: root
+    password: 123
