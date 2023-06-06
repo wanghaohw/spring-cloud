@@ -2,4 +2,5 @@ data:
   env: dev
   user:
     userName: root
-    password: 123
+    password: {cipher}AQBwbgDAi8+0fGBO7UM5JXGqCw6pSSgBPmIf2l++nzGuDs9DmLSdvbpaVu6rNUZoMTdL4LoPaxEjmlc65Lw8wR8PEEUsc6LdbHc4P+k+7eIm3MFAUbkBBnmjoaIFrR1tMWys7cAyxLjYFjbR3CSIs2OZ4lnXDhRCIL7G/5HxHK3iGWjJAV8bUz/r/FiXQGj98qtenYEcucMUgUKkHPebS4uMYb7CEIazH9vIcZsEUlgPRzH6eVWqjZdKKdjyinQL4RT43YHLa/k9e2z5x6XqBZTfi9E0LXh23to0uVWra52siCTTe5xAwBBmeFG8jGwdMwiz+r0y202ZQXF5clLI5wCoD0f1fiUN+2vPY/B8OhcwssA7gsBg4WMstx3Ks8KGnAU=
+    
